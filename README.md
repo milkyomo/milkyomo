@@ -1,6 +1,6 @@
 # Sharon Fang - @milkyomo
 
-<img src="https://cdn-icons.flaticon.com/png/512/1680/premium/1680509.png?token=exp=1648848137~hmac=5ab0c448a64e3e4b06bf6e2e85a589ad" alt="Cute bread" width="80"/><img src="https://cdn-icons-png.flaticon.com/512/452/452651.png" alt="Cute bread" width="80"/><img src="https://cdn-icons-png.flaticon.com/512/3750/3750257.png" alt="Cute bread" width="80"/>
+<img src="https://cdn-icons-png.flaticon.com/512/452/452651.png" alt="Cute bread" width="80"/><img src="https://cdn-icons-png.flaticon.com/512/3750/3750257.png" alt="Cute bread" width="80"/>
 
 <!--
 **milkyomo/milkyomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
