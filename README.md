@@ -2,7 +2,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/452/452651.png" alt="Cute bread" width="50"/><img src="https://cdn-icons-png.flaticon.com/512/3750/3750257.png" alt="Cute bread" width="50"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&color=F7B9F0&center=true&width=150&height=60&lines=h-hi...;hello!!!;welcome~;uwu" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&color=F7B9F0&center=true&width=150&height=45&lines=h-hi...;hello!!!;welcome~;uwu" />
 </p>
 <h2 align="center">🌸 𝒜𝒷𝑜𝓊𝓉 𝓂𝑒 🌸</h2>
 <img src="https://i.imgur.com/kVqJA90.gif" align="right" width="250">
