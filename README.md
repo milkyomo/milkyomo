@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/452/452651.png" alt="Cute bread" width="80"/><img src="https://cdn-icons-png.flaticon.com/512/3750/3750257.png" alt="Cute bread" width="80"/>
+<img src="https://cdn-icons-png.flaticon.com/512/452/452651.png" alt="Cute bread" width="50"/><img src="https://cdn-icons-png.flaticon.com/512/3750/3750257.png" alt="Cute bread" width="50"/>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&color=F7B9F0&center=true&width=150&height=60&lines=h-hi...;hello!!!;welcome~;uwu" />
