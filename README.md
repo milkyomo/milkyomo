@@ -12,10 +12,10 @@
   <b>Name:</b> Sharon
 </li>
 <li>
-  <b>Loves:</b> Staying at home, min-maxing Stardew Valley
+  <b>Loves:</b> Staying at home, min-maxing Stardew Valley, coding hehe
 </li>
 <li>
-  <b>Favorite Foods:</b> Hotpot, sushi, lobster noodles, dessert!
+  <b>Favorite Foods:</b> Hotpot, sushi, lobster noodles, dessert >:D
 </li>
 <li>
   <b>Favorite Games:</b> League, Valorant, Genshin, Dead by Daylight, Minecraft, ACNH
