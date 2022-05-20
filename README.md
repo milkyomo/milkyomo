@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&color=F7B9F0&center=true&width=150&height=45&lines=h-hi...;hello!!!;welcome~;uwu" />
 </p>
 <h2 align="center">🌸 𝒜𝒷𝑜𝓊𝓉 𝓂𝑒 🌸</h2>
-<img src="https://i.imgur.com/kVqJA90.gif" align="right" width="250" alt="erina nakiri reading" title="erina nakiri - food wars">
+<img src="https://i.imgur.com/kVqJA90.gif](https://data.whicdn.com/images/348141448/original.jpg" align="right" width="250" alt="erina nakiri reading" title="erina nakiri - food wars">
 <br>
 <br>
 <li>
@@ -27,7 +27,7 @@
 <h2 align="center">🌼 𝐿𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈 & 𝒯𝑜𝑜𝓁𝓈 🌼</h2>
 <br>
 <div stlye="display: flex; flex-direction: row;" align="center">
-<img src="https://c.tenor.com/p1UCkxeGATgAAAAC/kaguya-shinomiya-kaguya.gif" width="350" align="left" alt="kaguya shinomiya surprised" title="kaguya shinomiya - love is war" />
+<img src="https://c.tenor.com/p1UCkxeGATgAAAAC/kaguya-shinomiya-kaguya.gif](https://otakukart.com/wp-content/uploads/2022/04/Anya-forger.jpg" width="350" align="left" alt="kaguya shinomiya surprised" title="kaguya shinomiya - love is war" />
   <br>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" title="python" width="60">
