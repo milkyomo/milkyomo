@@ -50,9 +50,6 @@
 <br>
 <h2 align="center">🌷 𝑀𝓎 𝓈𝓉𝒶𝓉𝓈 🌷</h2>
 <br>
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=milkyomo&left_color=skyblue&right_color=plum" alt="visitor badge" />
-</p>
 <details align="center">
   <summary>Github Stats</summary>
 <p align="center">
